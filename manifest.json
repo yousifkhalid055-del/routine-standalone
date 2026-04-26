@@ -1,0 +1,15 @@
+{
+  "short_name": "روتيني",
+  "name": "روتيني اليومي",
+  "description": "تطبيق تتبع الصلوات والعادات اليومية",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+  ]
+}
